@@ -1,0 +1,80 @@
+Poly Haven (https://polyhaven.com), licenza CC0 (pubblico dominio), scaricati il 16/10/2026.
+texture forest_leaves_02 https://polyhaven.com/a/forest_leaves_02 CC0
+texture mud_forest https://polyhaven.com/a/mud_forest CC0
+texture pine_bark https://polyhaven.com/a/pine_bark CC0
+texture mossy_rock https://polyhaven.com/a/mossy_rock CC0
+texture medieval_blocks_05 https://polyhaven.com/a/medieval_blocks_05 CC0
+texture castle_wall_varriation https://polyhaven.com/a/castle_wall_varriation CC0
+modello dead_tree_trunk_02 https://polyhaven.com/a/dead_tree_trunk_02 CC0
+modello dead_tree_trunk https://polyhaven.com/a/dead_tree_trunk CC0
+modello tree_stump_01 https://polyhaven.com/a/tree_stump_01 CC0
+modello tree_stump_02 https://polyhaven.com/a/tree_stump_02 CC0
+modello root_cluster_01 https://polyhaven.com/a/root_cluster_01 CC0
+modello rock_moss_set_01 https://polyhaven.com/a/rock_moss_set_01 CC0
+modello rock_moss_set_02 https://polyhaven.com/a/rock_moss_set_02 CC0
+modello fern_02 https://polyhaven.com/a/fern_02 CC0
+modello dry_branches_medium_01 https://polyhaven.com/a/dry_branches_medium_01 CC0
+modello boulder_01 https://polyhaven.com/a/boulder_01 CC0
+modello large_castle_door https://polyhaven.com/a/large_castle_door CC0
+modello large_iron_gate https://polyhaven.com/a/large_iron_gate CC0
+modello gothic_statue https://polyhaven.com/a/gothic_statue CC0
+modello wooden_candlestick https://polyhaven.com/a/wooden_candlestick CC0
+modello treasure_chest https://polyhaven.com/a/treasure_chest CC0
+modello lion_head https://polyhaven.com/a/lion_head CC0
+cielo kloppenheim_02_puresky https://polyhaven.com/a/kloppenheim_02_puresky CC0
+modello stone_fire_pit https://polyhaven.com/a/stone_fire_pit CC0
+modello brass_candleholders https://polyhaven.com/a/brass_candleholders CC0
+
+Vegetazione (assets/scenari/vegetazione_cc0), 17/10/2026: costruita da Claude solo da Poly Haven (CC0):
+modello fir_sapling https://polyhaven.com/a/fir_sapling CC0 (aghi dei pini, fotografati in Blender)
+modello pine_sapling_small https://polyhaven.com/a/pine_sapling_small CC0 (corteccia dei pini)
+modello shrub_02 https://polyhaven.com/a/shrub_02 CC0
+modello shrub_03 https://polyhaven.com/a/shrub_03 CC0
+modello nettle_plant https://polyhaven.com/a/nettle_plant CC0
+modello grass_medium_01 https://polyhaven.com/a/grass_medium_01 CC0
+modello grass_medium_02 https://polyhaven.com/a/grass_medium_02 CC0
+(La vecchia vegetazione di dasy444 non e' piu' usata ne' esportata: provenienza delle texture non sicura.)
+
+texture snow_02 https://polyhaven.com/a/snow_02 CC0
+modello mountainside https://polyhaven.com/a/mountainside CC0
+modello rock_face_01 https://polyhaven.com/a/rock_face_01 CC0
+modello dead_quiver_trunk https://polyhaven.com/a/dead_quiver_trunk CC0
+modello dutch_ship_medium https://polyhaven.com/a/dutch_ship_medium CC0
+modello rock_face_02 https://polyhaven.com/a/rock_face_02 CC0
+modello coastal_cliff_04 https://polyhaven.com/a/coastal_cliff_04 CC0
+modello antique_ceramic_vase_01 https://polyhaven.com/a/antique_ceramic_vase_01 CC0
+modello marble_bust_01 https://polyhaven.com/a/marble_bust_01 CC0
+modello brass_goblets https://polyhaven.com/a/brass_goblets CC0
+modello kite_shield https://polyhaven.com/a/kite_shield CC0
+texture monastery_stone_floor https://polyhaven.com/a/monastery_stone_floor CC0
+texture old_stone_wall https://polyhaven.com/a/old_stone_wall CC0
+texture dark_rock https://polyhaven.com/a/dark_rock CC0
+Suoni (pioggia, tuoni, vento, cripta): sintetizzati da tools/make_meteo_audio.py, nessun campione esterno.
+Suono e musica della foresta: sintetizzati da tools/make_foresta_audio.py, nessun campione esterno.
+Caratteri: Cinzel, Cinzel Decorative (Natanael Gama), IM FELL (Igino Marini), SIL OFL 1.1 (testi in fonts/).
+EB Garamond (Georg Duffner, Octavio Pardo), SIL OFL 1.1, da github.com/google/fonts (ofl/ebgaramond), scaricato il 20/10/2026.
+Shader: rumore "Hash without Sine" di David Hoskins (MIT) e di Inigo Quilez (MIT).
+Motore: Godot Engine, MIT. Elenco completo per il giocatore: CREDITI.txt e cartella LICENZE accanto al gioco.
+Custode del Cerchio (modelli/custode.glb): modellato da Claude in Blender (assets_src/custode/custode.py), stoffe texture caban https://polyhaven.com/a/caban CC0 e hessian_230 https://polyhaven.com/a/hessian_230 CC0.
+
+PERSONAGGI (generati con Meshy, piano a pagamento dell utente: uso commerciale, nessuna attribuzione richiesta)
+- sacerdotessa: Meshy agente + GPT Image 2.5 Flare, 21/10/2026. Originale in ../scaricati/meshy/sacerdotessa; alleggerita, scheletro e pesi da Claude (assets_src/personaggi/sacerdotessa).
+  Uso di intelligenza artificiale da dichiarare su Steam.
+- animazioni della sacerdotessa: Mixamo (Adobe), uso gratuito anche commerciale, nessuna attribuzione richiesta; scaricate dall utente il 21/10/2026 (copie in ../Mixamo), trasferite da Claude con assets_src/personaggi/sacerdotessa/animazioni.py.
+
+Carte (assets/carte, 21/10/2026, rifatte il 22/10): immagini cotte da Claude con assets_src/carte/cuoci_carte.py da texture CC0
+(sorgenti in assets_src/carte/sorgenti_cc0) e dal cerchio rituale del gioco (assets/cerchi/cerchio_terra.png, di Claude):
+texture fabric_leather_02 https://polyhaven.com/a/fabric_leather_02 CC0 (dorso, dal 22/10)
+texture rusty_metal_04 https://polyhaven.com/a/rusty_metal_04 CC0 (cornice, dal 22/10)
+texture Paper003 https://ambientcg.com/view?id=Paper003 CC0 (ambientCG)
+texture Paper006 https://ambientcg.com/view?id=Paper006 CC0 (ambientCG)
+texture rusty_metal_03 https://polyhaven.com/a/rusty_metal_03 CC0
+texture leather_red_03 https://polyhaven.com/a/leather_red_03 CC0
+Materiali (assets/materiali, 22/10/2026): ferro arrugginito di catene, cinture e anelli, cuoio delle cinture:
+texture rusty_metal_03 (colore, rilievi, ruvidità) https://polyhaven.com/a/rusty_metal_03 CC0
+texture fabric_leather_01 (colore, rilievi, ruvidità) https://polyhaven.com/a/fabric_leather_01 CC0
+Braccia in prima persona, vestito del mago (assets_src/personaggi/braccia_fps/vestiti_mago, 2/11/2026; non ancora nel gioco):
+texture brown_leather (colore, rilievi, ruvidita') https://polyhaven.com/a/brown_leather CC0
+texture leather_white (colore, rilievi, ruvidita') https://polyhaven.com/a/leather_white CC0
+texture caban (colore, rilievi, ruvidita') https://polyhaven.com/a/caban CC0
+modello Game Ready FPS Arms (zahers, CGTrader, Royalty Free No AI: solo dentro il gioco, niente IA)

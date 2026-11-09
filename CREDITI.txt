@@ -1,0 +1,36 @@
+PROGETTO (nome provvisorio)
+
+MOTORE
+Realizzato con Godot Engine (godotengine.org), licenza MIT.
+Copyright (c) 2014-present Godot Engine contributors.
+Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+Il testo completo della licenza di Godot e delle librerie che usa si trova nella cartella LICENZE del gioco.
+
+CARATTERI
+Cinzel e Cinzel Decorative di Natanael Gama (The Cinzel Project Authors), SIL Open Font License 1.1.
+IM FELL di Igino Marini, SIL Open Font License 1.1.
+EB Garamond di Georg Duffner e Octavio Pardo (The EB Garamond Project Authors), SIL Open Font License 1.1.
+I testi delle licenze dei caratteri sono nella cartella LICENZE del gioco.
+
+MODELLI, TEXTURE E CIELO
+Poly Haven (polyhaven.com), licenza CC0 (pubblico dominio). Grazie ai loro artisti:
+alberelli fir_sapling e pine_sapling_small (da cui sono costruiti i pini del gioco), cespugli shrub_02 e
+shrub_03, ortiche nettle_plant, erbe grass_medium_01 e grass_medium_02, felce fern_02, tronchi morti
+dead_tree_trunk e dead_tree_trunk_02, ceppi tree_stump_01 e tree_stump_02, radici root_cluster_01, rocce
+rock_moss_set_01, rock_moss_set_02, boulder_01, rock_face_01, rock_face_02, mountainside, coastal_cliff_04,
+rami dry_branches_medium_01, tronco dead_quiver_trunk, nave dutch_ship_medium, portone large_castle_door,
+cancello large_iron_gate, statua gothic_statue, testa di leone lion_head, forziere treasure_chest,
+candelabri wooden_candlestick e brass_candleholders, braciere stone_fire_pit, vaso antique_ceramic_vase_01,
+busto marble_bust_01, calici brass_goblets, scudo kite_shield;
+texture forest_leaves_02, mud_forest, pine_bark, mossy_rock, medieval_blocks_05, castle_wall_varriation,
+snow_02, monastery_stone_floor, old_stone_wall, dark_rock, caban e hessian_230 (le stoffe del Custode),
+rusty_metal_03 (catene), rusty_metal_04 e fabric_leather_02 (cornice e dorso delle carte), fabric_leather_01 (cinture);
+cielo kloppenheim_02_puresky.
+ambientCG (ambientcg.com), licenza CC0 (pubblico dominio): texture Paper003 e Paper006 (la pergamena delle carte).
+
+SHADER
+Funzione di rumore "Hash without Sine" di David Hoskins, licenza MIT, Copyright (c) 2014 David Hoskins.
+Funzione di rumore di Inigo Quilez (iquilezles.org), licenza MIT, Copyright (c) Inigo Quilez.
+
+SUONI E MUSICA
+Tutti i suoni e la musica sono creati per questo gioco, generati da programma: nessun campione esterno.

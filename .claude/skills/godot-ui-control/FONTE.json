@@ -1,0 +1,30 @@
+{
+  "repo": "gamedev-skills/awesome-gamedev-agent-skills",
+  "commit": "0a70cfc64672d512c5b5b6006b5dcb5cf90dbdbd",
+  "source_path": "skills/godot/godot-ui-control",
+  "files": [
+    {
+      "source_path": "LICENSE",
+      "file": "02-esterne/godot-ui-control/LICENSE",
+      "bytes": 11395
+    },
+    {
+      "source_path": "NOTICE",
+      "file": "02-esterne/godot-ui-control/NOTICE",
+      "bytes": 883
+    },
+    {
+      "source_path": "skills/godot/godot-ui-control/SKILL.md",
+      "file": "02-esterne/godot-ui-control/SKILL.md",
+      "bytes": 5782
+    },
+    {
+      "source_path": "skills/godot/godot-ui-control/references/layout-and-theming.md",
+      "file": "02-esterne/godot-ui-control/references/layout-and-theming.md",
+      "bytes": 4107
+    }
+  ],
+  "retrieved": "2026-10-21",
+  "modified_source": false,
+  "installed": false
+}

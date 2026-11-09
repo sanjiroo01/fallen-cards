@@ -1,0 +1,16 @@
+PROGETTO (nome provvisorio) - prototipo
+
+Quattro campioni, un cerchio, uno solo vedrà l'alba.
+
+COME SI GIOCA (in breve)
+- Hai 4 candele: sono le tue vite.
+- A ogni giro scegli in segreto: attacca qualcuno, difenditi da qualcuno, riaccendi una candela
+  (solo con 2 o meno) oppure usa la tua abilità (una volta per partita).
+- Se attacchi chi si difende da te, il colpo torna indietro.
+- Se ti difendi da chi non ti attacca, diventi stanco: al giro dopo puoi solo attaccare.
+- Dopo la rivelazione il Custode estrae l'ordine dei colpi: chi muore prima non colpisce.
+- Tre manche: 3, 2, 1, 0 punti in base a chi resiste di più; la terza vale doppio.
+- Da spettro puoi scommettere su chi perderà una candela.
+
+Le regole complete sono nel gioco: "Come si gioca" nel menu, o il pulsante "? Regole".
+Esc apre la pausa.

@@ -1,0 +1,9 @@
+# file che Godot ricrea da solo
+.godot/
+# impostazione usata solo per le prove sul server
+override.cfg
+# gioco esportato (si pubblica a parte, non nel codice)
+*.exe
+*.pck
+*.7z
+__pycache__/
