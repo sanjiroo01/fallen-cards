@@ -73,7 +73,7 @@ Se due skill dicono cose diverse, valgono queste istruzioni.
 
 ## Sicurezza del progetto
 - Si lavora solo sulle parti pertinenti all'incarico.
-- Prima delle modifiche significative si fa un checkpoint git: commit sul ramo di lavoro, oggi `grafica`.
+- Prima delle modifiche significative si fa un checkpoint git: commit sul ramo di lavoro, oggi `main` (repository GitHub `sanjiroo01/fallen-cards`, dal 9/11/2026).
   Il push su GitHub si fa solo su richiesta.
 - Niente cancellazioni definitive: i file vecchi vanno nel Cestino, e solo dopo aver verificato che
   nulla li usa. Niente sovrascritture di originali senza una copia recuperabile.
